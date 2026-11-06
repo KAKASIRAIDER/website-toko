@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.header {
+    background-color: rgb(10, 46, 58);
+    color: white;
+}
+
+.header h2 {
+    margin: 15px;
+}
+
+td {
+    padding: 10px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+iframe {
+    display: block;
+    border: none;
+}
+
+.footer {
+    background-color: rgb(10, 46, 58);
+    color: white;
+}
