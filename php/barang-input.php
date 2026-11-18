@@ -15,13 +15,7 @@
 
         <table>
 
-            <tr>
-                <td>ID Barang</td>
-                <td>
-                    <input type="text" name="id_barang" required>
-                </td>
-            </tr>
-
+           
             <tr>
                 <td>Nama Barang</td>
                 <td>

@@ -66,7 +66,7 @@
                 </td>
 
                 <td>
-                    <a href="barang-edit.php?id=<?php echo $data['id_barang']; ?>">Edit</a>
+                    <a href="barang-edit.php?id=<?php echo $tampil['id_barang']; ?>">Edit</a>
                 </td>
 
             </tr>
